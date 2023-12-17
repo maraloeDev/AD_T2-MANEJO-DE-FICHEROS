@@ -1,0 +1,27 @@
+[
+    {
+        "CENTRO": "MUDEM (Museo del Enclave Muralla)",
+        "DIRECCION": "calle Ibn Arabi",
+        "TELEFONO": "968 388 562"
+    },
+    {
+        "CENTRO": "Museo Horno del Concejo y Casa del Folclore",
+        "DIRECCION": "Calle Cid Campeador, 2",
+        "TELEFONO": "968 388 519"
+    },
+    {
+        "CENTRO": "Aula Naturaleza de El Rellano",
+        "DIRECCION": "Desde la Autovía A-30 Murcia-Madrid, salida121-b (Fenazar-Fortuna)",
+        "TELEFONO": "968 388 513"
+    },
+    {
+        "CENTRO": "Museo Etnográfico Carlos Soriano",
+        "DIRECCION": "Plaza de la Ermita s/n (Llano de Molina)",
+        "TELEFONO": "968 388 519"
+    },
+    {
+        "CENTRO": "Centro La Albarda Ritos y Tradiciones del Campo de Molina",
+        "DIRECCION": "Avd. de la Albarda, 74",
+        "TELEFONO": "968 388 522 / 523"
+    }
+]
